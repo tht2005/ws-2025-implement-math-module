@@ -1,4 +1,4 @@
-import React, { type ReactNode } from 'react';
+import { type ReactNode } from 'react';
 import { AMMPresentation } from './AMM';
 import { BlockchainPresentation } from './Blockchain';
 import { DEXFundamentalsPresentation } from './DEXFundamentals';
